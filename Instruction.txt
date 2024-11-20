@@ -1,0 +1,6 @@
+I utilized the charmm software developed by Chemistry at Harvard Macromolecular machine, https://academiccharmm.org/ to generate initial psf and pdb file for detergent micelle
+
+
+
+01_Packmol Script to generate the assembly
+Step1: BPR hexameric sequence prebuild from my labmate input file from here I got:
